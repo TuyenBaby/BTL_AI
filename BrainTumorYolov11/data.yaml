@@ -1,0 +1,6 @@
+train: D:\BTL_AI\BrainTumorYolov11\train
+val: D:\BTL_AI\BrainTumorYolov11\valid
+test: D:\BTL_AI\BrainTumorYolov11\test
+
+nc: 3
+names: ['glioma', 'meningioma', 'pituitary']
